@@ -1,5 +1,5 @@
 # QA_Testes_Manuais
-estudo sobre os testes manuais em qualidade de software.
+Estudo sobre os testes manuais em qualidade de software.
 
 
 1. O que são testes manuais?
